@@ -37,7 +37,7 @@ $ npm run serve  //启动项目
 
 6.书架功能(获取本地缓存显示已加入书架的小说，转跳上一次阅读的章节)  
 
-### 项目部分功能图片展示  
+### 项目部分功能图片展示:  
 
 ![Image](https://github.com/yujinxings/qiedemo/blob/master/images/1.png)![Image](https://github.com/yujinxings/qiedemo/blob/master/images/2.png)![Image](https://github.com/yujinxings/qiedemo/blob/master/images/3.png)![Image](https://github.com/yujinxings/qiedemo/blob/master/images/4.png)![Image](https://github.com/yujinxings/qiedemo/blob/master/images/5.png)![Image](https://github.com/yujinxings/qiedemo/blob/master/images/6.png)![Image](https://github.com/yujinxings/qiedemo/blob/master/images/7.png)![Image](https://github.com/yujinxings/qiedemo/blob/master/images/8.png)![Image](https://github.com/yujinxings/qiedemo/blob/master/images/9.png)
 
